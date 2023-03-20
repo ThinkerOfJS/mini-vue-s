@@ -1,0 +1,31 @@
+{
+  "name": "mini-vue-s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkerOfJS/mini-vue-s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkerOfJS/mini-vue-s/issues"
+  },
+  "homepage": "https://github.com/ThinkerOfJS/mini-vue-s#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-typescript": "^7.21.0",
+    "@types/jest": "^29.5.0",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
